@@ -1,0 +1,88 @@
+Computer Security Fundamentals For Starters in Security
+BY SHIVAM TIWARI · PUBLISHED MARCH 26, 2017 · UPDATED JULY 11, 2017
+
+ Introduction to Computer Security
+In this post I will describe the fundamentals of computer security which is necessary for your day-to-day work with Computers connected to Internet as well as a great equipment for your CSCU (i.e. Certified Secure Computer User) or Start certified user Examination, not just that, it is as important as wearing body armor before going to war.
+
+ 
+
+Anyway, let’s continue to what you’re going to learn in this post.
+
+What is Computer Security and why is it important?
+What are malwares, it’s types and how to prevent them?
+ 
+
+So from the first paragraph you may now know what computer security is by referring to that example of a body armor. Anyway, let’s move forward to our first topic.
+
+ 
+
+What is Computer Security and why do we need it?
+ 
+
+Computer security is securing your computer or preventing malwares from getting into it. Don’t worry we’ll discuss the term “malware” later in this post.
+So basically, you need it to protect your computer, your data, credentials and all the other important files that you have inside your computer. Also, I guess you don’t want to put all your images that you’ve captured on your college graduation at risk of getting deleted Or the videos that you’ve made while being a bathroom singer.
+
+So that’s the reason why you need computer security best practices. Well not just that, when you work for some company, you have to be clever about security, as you may be doing work on a important data and it gets stolen or deleted by some malware, you’ll put yourself and the company on a big risk.
+
+ 
+
+So now I think you have got the point that why computer security is important for all of us, so let’s move forward to our next topic to understand it even further.
+
+ 
+
+What are Malwares, it’s types and how to prevent them?
+ 
+
+Malwares are the form of sofwares that are malicious, or we can round up this term as malicious-softwares. Well, I consider you telling a short definition of what a software is.
+Well, we can define a software as a set of programs and what programs are? They are set of instructions! Simple right?
+
+An example of a computer program
+
+Now, if you make a computer program or a set of some instructions such as deletion of a file or making a copies of some big files to fill up the hard disk entirely, that’s what a malicious code is.
+
+As the term defines, “malicious program” or “malicious software” it is something which is made to harm you or your entire network.
+
+Now, you may wonder how would you indentify a malware, well, let’s discuss what types of malwares are there. One-by-one.
+
+[Also Read: How could you secure your identity from thefts by protecting your computer from Malwares.]
+
+Types of malwares
+Viruses – You may have heared this term before, “computer viruses” or something similar. A computer virus is a program that executes itself and deletes some of your important data in your computer. It also infects your external drives when you insert them into your computer for some data transfer. This kind of virus usually comes from some malicious websites that everyday user uses to download movies or songs or pirated sofwares.
+Even if you put someone’s elses pendrive with virus infection, your computer may get compromise too.
+Worms – Don’t get confused with the term “earth-worm” here, A computer worm is basically a code or a instruction that comes attached along with some files that you download from the internet. And when you run those files the worms gets executed and make copies of itself in your Random Access Memory to slow your computer down.
+
+Trojan horses – If you belongs to IT or computer science field you may have heared this statement before “Some programs can steal your credentials by just watching you typing them” Don’t worry, their is no camera around. This is the work of these trojan horses, they steal your keys, your user credentials and a lot of important data that you don’t want to share with anyone on the internet.
+
+Functions of Trojan
+By using the trojan horses one can get access to your computer remotely and make changes, steal data and can perform administrative functions.
+
+The most basic functionality of Trojan Horses is that they can record your keys, while you entering you password to your banking website, it records what you’re pressing and in what format and after recording them, the person (hacker) sitting on other computer gets the access to your account easily.
+
+That is why on banking websites they suggest to use virtual keyboard.
+
+Backdoor – Basically the term backdoor refers to another door to get access to your computer. Such as through terminal or cracking your administrator passwords. This basically done through physical access to your computer. So don’t worry if you put your computer in your home and nobody has access to it.
+There’s a lot more that we’ll discuss in upcoming topics.
+
+Now, How would you prevent these malwares from getting into your computer?
+
+Well, for this to work you have to follow some basic guidelines that i’m writing below.
+
+Basic guidelines to keep your computer safe
+If you use your computer to access your important files on cloud using cyber-cafe’s or public internet, make sure to log-out of all the things before leaving the internet.
+If you get an email from an unknown source, do not open it.
+
+Even if you think the email is from a known source, open it and look if it contain some links, if it do, for example, if the link say, www.facebook.com hover your mouse on that link and check in left down corner of your web browser if the link actually pointing to facebook.com or are pointing to some mallicious site.
+
+Never download any executable files having the .bat or .exe extensions from the Internet or Email.
+
+Always use a good antivirus in your system. That’ll help blocking malicious content entering into your computer and also warn you about risky websites.
+
+Make sure to update all your softwares, operating system and antiviruses, the best practice is enabling automatic updates in your system to get rid of any past vulnerabilities that the module had.
+
+ 
+
+By following all these practices discussed above you can have a security on your computer and you’ll be safe of any malicious attacks towards your data.
+
+If you have any questions regarding any of the topics discusses above. Please comment below and we will try to help you as soon as possible.
+
+For more security updates on how to secure your computer or home network, read more posts at computer security category.
