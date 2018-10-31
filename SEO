@@ -1,0 +1,80 @@
+Search Engine Optimization (SEO) – WordPress Basics
+BY SHIVAM TIWARI · PUBLISHED MARCH 26, 2017 · UPDATED APRIL 18, 2017
+
+Basics of Search Engine Optimization (SEO) in WordPress
+Let’s take a look to first thing, that is, what is SEO?
+SEO
+As you may know by looking at the title of this post, SEO stands for Search Engine Optimization. Which is a process of optimizing your website or content in order to rank higher in search engines. In this blog, When I say search engine, I mostly refer to Google search engine because it is on the top.
+Now, let’s have a look to how and why would you write content which is highly search engine optimized.
+How to write quality content?
+To write a quality content on your blog or website, you must have to focus on one keyword. Basically a focus keyword is a word on which the whole posts revolves around. For example, I have written a blog post on puppies so I have to include the word puppies almost 3 times with understandable meanings to make the content revolve around that keyword.
+
+Another important factor in writing quality content is active voice. Make sure to not to write anything in a passive voice because avoiding passive voice is great if you want to write an article which is nice and easy to read. Texts using passive voice are hard to read as well as are bad for in terms of search engine optimization.
+
+One more thing plays an important role in your article, that is, make sure no paragraph is too long. Write short paragraphs.
+
+No subheadings in your content should exceed more than 300 words. If you have a large content revolving around the same topic, try to make it short. And if not short, put types of subheadings correctly defining content below it in one or more than one word.
+
+Here it is all about how to write a quality content and why should you write it, now let’s have a look to some other major ranking factors.
+
+Focus Keyword
+As I state earlier, focus keyword is a word on which your content is based. This is the most important part of any content and is understandable to both the human readers and search engine robots.
+
+For example, if you type any keyword on search engine, let’s say, “how do I optimize my images” basically, what you’re typing is not a question, but a set of keywords such as “how”, “optimize”, “images”.
+
+Google will look to your keywords and present you a content which is using the keywords you’ve asked it for.
+
+Let’s say, I search in Google for a “bed sheet” well what happen? Google will present me the list of stores or places like Amazon selling bed sheets.
+
+I hope now you understand why focus keyword is important, next move to other major factor.
+
+Meta Description
+You may have heard of providing descriptions to what we sell in order to make our customers recognize what we actually are selling.
+
+Similarly, meta description defines to the readers and search engine that what kind of content your article is having.
+
+Basically, I suggest to use a meta description of around 100 characters which is going to be enough to let humans understand what you’ve actually written about in your post.
+
+Optimized Images
+As you all know, only the content without images doesn’t appear pretty good. So you should add some high quality images.. but wait! High quality images will be of higher sizes which is slow to load and makes your webpage slower.
+
+What should you do now?
+
+Well, we have a solution !
+
+1: Download or capture your image.
+
+2: Go to jpegmini.com
+
+3: Upload your image and let the magic happen.
+
+4: Download your image.
+
+By using jpegmini you can get your image compressed without affecting its quality, awesome right? 😀
+
+Permalinks
+Make sure your links should not contain any underscore or anything which is hard to remember. Separate the words in your link using dashes (-) and make sure the link are easy to remember for humans as well as for search engines.
+
+Complex permalinks are huge disadvantage for SEO ranking.
+
+Your post title
+While making a post, you’re making it for both the search engines and humans so make sure to put your focus keyword in your title and try to make it kind of descriptive.
+
+Just a simple suggestion, Make a title which has at least 65 characters including the focus keyword.
+
+Important tools that you can use to write better SEO optimized content
+If you look on the Internet, there are various tools available that can help you write SEO optimized content easily. But make sure to write the content on your own, do ever not copy someone’s else content.
+
+If you’re using wordpress to write your articles, there are few plugins that you can use that can help you write better.
+
+Yoast SEO [Free version WordPress plugin]
+Go to plugins on your user bars and search for “Yoast SEO”.
+
+Yoast plugin will guide you whenever you write something bad, it even contains all the factors that define your content, for example, take a look at this image below to get an idea of how yoast SEO have an eye on your content to guide you with great SEO majors.
+
+Yoast SEO readability 
+Defines the section “Readability” which shows how your content is in front of human readers and search engine robots
+
+The green dots state that “it’s all good” and the orange shows “needs improvements” and red stands for “poorly written”.
+
+I am suggesting you thing plugin because I use it and I get really good help using it. Also, more than 41 Million blogs on WordPress worldwide are currently using Yoast SEO for their basic SEO needs.
